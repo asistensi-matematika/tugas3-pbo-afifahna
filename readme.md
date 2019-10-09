@@ -51,8 +51,16 @@ soal opsional, tapi selesaikan semua soal di atas terlebih dahulu
 ![](/img/3.png)
 
 ## Screenshot hasil
-Soal 1 ![Capture2](https://user-images.githubusercontent.com/49546153/66478988-bead5c00-eac5-11e9-8844-3ec070ae5b33.PNG)
-Soal 2 ![Capture3](https://user-images.githubusercontent.com/49546153/66478992-bfde8900-eac5-11e9-81c7-228c2c5b1423.PNG)
+Soal 1
+![Capture2](https://user-images.githubusercontent.com/49546153/66478988-bead5c00-eac5-11e9-8844-3ec070ae5b33.PNG)
+
+
+
+
+
+
+Soal 2
+![Capture3](https://user-images.githubusercontent.com/49546153/66478992-bfde8900-eac5-11e9-81c7-228c2c5b1423.PNG)
 
 ## Upload
 upload seluruh folder project java-nya ke repository ini
